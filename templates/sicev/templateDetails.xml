@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>sicev</name>
+	<creationDate>04 Maggio 2015</creationDate>
+	<author>Aldo Agostini - Cristian Giuliani</author>
+	<authorEmail>info@cristiangiuliani.com</authorEmail>
+	<authorUrl>http://www.cristiangiuliani.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2015 S.I.C.E.V. All rights reserved.</copyright>
+	<license>Commercial</license>
+	<version>1.0.0</version>
+	<description>Tamplate Custom per S.I.C.E.V.</description>
+
+	<files>
+		
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		
+	</files>
+
+	<positions>
+		<position>debug</position>
+		<position>logo</position>
+		<position>login</position>
+		<position>menu</position>
+		<position>search</position>
+		<position>slide</position>
+		<position>eventi</position>
+		<position>news</position>
+		<position>banner</position>
+		<position>menu-fl</position>
+		<position>menu-fc</position>
+		<position>menu-fr</position>
+		<position>footer</position>
+		<position>sidebar</position>
+		<position>warning</position>
+		<position>menu-s</position>
+		<position>area1</position>
+		<position>area2</position>
+		
+	</positions>
+
+	<!-- 	For core templates, we also install/uninstall the language files in the core language folders.
+	-->
+	
+</extension>
